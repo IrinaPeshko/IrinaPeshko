@@ -1,5 +1,5 @@
-# 👋 Hello! I'm Ira, Nice to see you 💥
-<p>I'm Junior front-end developer</p>
+![Header](./github-image.png)
+## Junior front-end developer
 
 🔥 JavaScript Enthusiast<br>👩🏼‍💻 Can't Stop Coding<br>❤️ Passionate about React<br>💪 Committed to Excellence<br>✨ Turning Code into Magic<br>📍 From Belarus, Brest<br><br>
 
