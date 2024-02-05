@@ -17,11 +17,31 @@
 </p>
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+<div align="center">
+  <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572b6.svg?style=for-the-badge&logo=CSS3&logoColor=white" height="40"/>
+  <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" height="40"/>
+  <img alt="BEM" src="https://img.shields.io/badge/BEM-000000.svg?style=for-the-badge&logo=BEM&logoColor=white" height="40"/>
+  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="40"/>
+  <img alt="typescript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>
+  <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" height="40"/>
+  <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" height="40"/>
+  <img alt="reacthookform" src="https://img.shields.io/badge/react%20hook%20form-EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" height="40"/>
+  <img alt="reactrouter" src="https://img.shields.io/badge/react%20router-CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white" height="40"/>
+  <img alt="jest" src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="40"/>
+  <img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="40"/>
+  <img alt="webpack" src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height="40"/>
+  <img alt="vite" src="https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="40"/>
+  <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+  <img alt="vitest" src="https://img.shields.io/badge/vitest-6E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white" height="40"/>
+  <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" height="40"/>
+  <img alt="firebase" src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" height="40"/>
+  <img alt="vscode" src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40"/>
+  <img alt="sublimetext" src="https://img.shields.io/badge/sublime%20text-FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=white" height="40"/>
+  <img alt="eslint" src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white" height="40"/>
+  <img alt="prettier" src="https://img.shields.io/badge/prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" height="40"/>
+</div>
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+## **Codewars:**
+<p><img align="center" src="https://www.codewars.com/users/rsschool_cae8b0d4c255fa43/badges/micro" alt="codewars" /></p>
