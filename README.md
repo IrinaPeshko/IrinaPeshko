@@ -1,5 +1,5 @@
 ![Header](./github-image.png)
-## Junior front-end developer
+## Front-end developer
 
 🔥 JavaScript Enthusiast<br>👩🏼‍💻 Can't Stop Coding<br>❤️ Passionate about React<br>💪 Committed to Excellence<br>✨ Turning Code into Magic<br>📍 From Belarus, Brest<br><br>
 
